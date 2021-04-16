@@ -3,7 +3,7 @@
 <!-- 卡片生成：https://github.com/anuraghazra/github-readme-stats -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seekincs)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seekincs&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seekincs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Issac's GitHub stats](https://github-readme-stats.vercel.app/api?username=seekincs&show_icons=true&theme=radical) -->
 
